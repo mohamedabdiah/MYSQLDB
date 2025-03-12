@@ -1,0 +1,9 @@
+create table students(
+  id int,
+  name varchar(200),
+  address text
+)
+
+
+# this is a when a need to remove my table object
+drop table students
